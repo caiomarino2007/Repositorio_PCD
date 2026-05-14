@@ -1,2 +1,10 @@
-# Repositorio_PCD
+# Aula de Git 2026
+
+Docente; Daniel R. Cassar
+Aluno: Caio Guimarães Marino
+
+Ilum Escola de Ciência, CNPEM
+
 Repositório Aula de Git - PCD (14/05/26)
+
+Neste momento, o repositório está em construção e ainda estamos atualizando o README.
