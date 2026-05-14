@@ -1,3 +1,5 @@
 Sempre coloque boas mensagens no seu commit
 
 Fiz caca e tô fazendo de novo para dar commit com mais de um arquivo
+
+Trabalhe sempre no ramo de desenvolvimento, e depois espelhe as mudanças para o ramo principal.
