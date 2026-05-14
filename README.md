@@ -9,5 +9,5 @@ Repositório Aula de Git - PCD (14/05/26)
 
 Neste momento, o repositório está em construção e ainda estamos atualizando o README.
 
-Vamos aprender a fazer um commit local.
+Vamos aprender a fazer um commit com mais de um arquivo.
 
